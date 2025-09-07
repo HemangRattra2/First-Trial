@@ -1,4 +1,7 @@
 # First-Trial
-This is my first repo, trial
+This is my first repo
 <br>
-WAAAAAAH
+Just learning how to code in C++
+<br>
+WOOOOOOOW
+
